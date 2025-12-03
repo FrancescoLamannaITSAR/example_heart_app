@@ -117,6 +117,7 @@ st.title("❤️ Heart Disease – ML Demo")
 st.caption(
     "Esempio didattico: modello binario (malattia sì/no) su 5 feature "
     "numeriche. Non è uno strumento medico reale."
+    "Stolen from Slope"
 )
 
 # SLIDER ------------------------------------------
